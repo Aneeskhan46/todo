@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(246, 246, 53);
+   
+    
+}
+
+
+div{
+    text-align: center;
+}
+
+
+button{
+    margin-left: 4px;
+   
+}
+
+img{
+    height: 100px;
+    width: 300px;
+}
